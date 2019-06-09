@@ -1,4 +1,25 @@
-body {
-  background: red;
-  font-size: 2em;
+.left {float: left;
+}
+.right{float:right;
+}
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+.centered-container{ width:80%; margin: auto;}
+.line {display: inline;}
+li {display: inline;}
+ul{display: inline;}
+section {color: white; background:red; }
+section3 {background-color: salmon; padding: 25px}
+a {padding: 5px; background: white; border-radius: 6px; color: salmon}
+.salmonfont{color: salmon}
+h1{font-size: 25px}
+
+.section_dark {
+  background-color: #000;
+  color: #fff;
+}
+#section2 {
+
 }
