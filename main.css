@@ -10,10 +10,11 @@
 .line {display: inline;}
 li {display: inline;color: red}
 ul{display: inline;}
-.redbackground{background-color: red}
-.salmonbackground {background-color: salmon; padding: 25px; font-size: 26px; text-align: center; color:black;}
+.redbackground{background-color: red ; color:white; padding: 20px;}
+.pinkbackground {background-color: #ffc0cb; padding: 25px; font-size: 26px; text-align: center; color:black;}
 a {padding: 5px; background: white; border-radius: 6px; color: salmon}
 .inline_33 {display:inline-block; width:33%; }
 h1{font-size: 25px}
-footer{padding: 10px;}
+footer{padding: 10px; color:grey; margin: 0;}
 .inline_split{display: inline-block;width: 50%}
+.word_smith{margin: 20px; padding-top: 25px}
